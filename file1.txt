@@ -1,0 +1,4 @@
+Working with the new project 
+Banking Domain
+MySQL Database
+Java
